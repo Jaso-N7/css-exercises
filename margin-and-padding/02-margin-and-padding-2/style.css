@@ -37,12 +37,7 @@ body {
 .button-container {
     background: #e3f4ff;
     padding: 10px;
-}
-
-.button-container__text {
-    display: block;
-    width: 50px;
-    margin: auto;
+    text-align: center;
 }
 
 button {
